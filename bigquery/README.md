@@ -1,2 +1,3 @@
 # BigQuery
-Local emulation using the `bigquery-emulator` (Docker).
+
+BigQuery is a managed serverless data warehouse
