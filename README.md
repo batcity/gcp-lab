@@ -1,6 +1,25 @@
-# GCP Lab: Local Emulator Environment
+# GCP Lab
 
-Learn and test GCP services completely locally using official and open-source emulators.
+This repository contains **Google Cloud Platform (GCP) features and advanced concepts** for learning and testing GCP services locally using emulators. Each concept is organized into domain-specific modules containing an example script and a dedicated guide.
+
+## Table of Contents
+
+### 📊 BigQuery Master Class (The 5 Pillars)
+* **[01. Architecture](./bigquery/01_Architecture/README.md):** Under the Hood (Decoupled Compute/Storage, Columnar Storage, Slots vs. On-Demand Pricing, Dry Runs)
+* **[02. Performance & Cost Optimization](./bigquery/02_Optimization/README.md):** Advanced Scaling (Partitioning & Clustering, Materialized Views, Query Plan Analysis, BI Engine)
+* **[03. Analytical Data Modeling](./bigquery/03_Data_Modeling/README.md):** NoSQL Patterns in SQL (Nested & Repeated Fields, STRUCTs/ARRAYs, UNNEST, Slowly Changing Dimensions Type 2)
+* **[04. Security & Multi-Tenancy](./bigquery/04_Security_MultiTenancy/README.md):** Enterprise Governance (Row/Column-Level Security, Authorized Views, Dataset-per-Tenant Isolation)
+* **[05. Ingestion & Advanced Analytics](./bigquery/05_Ingestion_Analytics/README.md):** Data Pipelines & AI (Storage Write API, Federated/External Queries, BigQuery ML)
+
+### 🗄️ Storage & Databases
+- [Cloud Storage (GCS)](./gcs/README.md)
+- [Cloud Firestore](./firestore/README.md)
+
+### 📨 Messaging & Integration
+- [Cloud Pub/Sub](./pubsub/README.md)
+
+### ⚡ Serverless Compute
+- [Cloud Functions](./cloud_functions/README.md)
 
 ## Prerequisites
 
