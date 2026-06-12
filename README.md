@@ -18,8 +18,9 @@ This repository contains **Google Cloud Platform (GCP) features and advanced con
 ### 📨 Messaging & Integration
 - [Cloud Pub/Sub](./pubsub/README.md)
 
-### ⚡ Serverless Compute
+### Serverless Compute
 - [Cloud Functions](./cloud_functions/README.md)
+- [Cloud run](./cloud_run/README.md)
 
 ## Prerequisites
 
