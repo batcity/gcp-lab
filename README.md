@@ -13,7 +13,7 @@ This repository contains **Google Cloud Platform (GCP) features and advanced con
 
 ### 🗄️ Storage & Databases
 - [Cloud Storage (GCS)](./gcs/README.md)
-- [Cloud Firestore](./firestore/README.md)
+- [Firestore](./firestore/README.md)
 
 ### 📨 Messaging & Integration
 - [Cloud Pub/Sub](./pubsub/README.md)
